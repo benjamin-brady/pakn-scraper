@@ -1,0 +1,153 @@
+{
+  "name": "9 Grains Crispbread",
+  "brand": "Arnott's Vita-Weat",
+  "description": "Made with 100% Wholegrains. 100% Natural. 4 Crispbreads = 40% of Your Daily Wholegrains. Contains Soy, Gluten Containing Cereals. May contain traces of Egg, Milk, Peanut, Sesame, Tree Nut.",
+  "unitOfMeasure": "EA",
+  "price": 319,
+  "nonLoyaltyCardPrice": 319,
+  "productId": "5009687-EA-000",
+  "weighable": {},
+  "sku": "9310072014753",
+  "comparativePricePerUnit": 128,
+  "comparativeUnitQuantity": 100,
+  "comparativeUnitQuantityUoM": "g",
+  "saleType": "UNITS",
+  "facets": [
+    {
+      "itemCode": "00020012",
+      "itemDescription": "Non-GMO"
+    }
+  ],
+  "ingredientStatement": "Wholegrains (86%) (Wheat, Barley, Rye, Corn), Seeds (5%) (Canola, Linseed, Poppy, Sunflower Kernels), Vegetable Oil, Salt, Sugar, Soy.",
+  "fsIngredientStatement": "Wholegrains (86%) (**Wheat**, **Barley**, **Rye**, Corn), Seeds (5%) (Canola, Linseed, Poppy, Sunflower Kernels), Vegetable Oil, Salt, Sugar, **Soy**.",
+  "allergenStatement": "Contains Wheat, Gluten, Soy. Allergen May Be Present: Egg, Milk, Peanuts, Sesame, Tree Nuts",
+  "fsContainsAllergenStatement": "**Contains Wheat, Gluten, Soy.**",
+  "fsSupplementaryAllergenStatement": "Allergen May Be Present: Egg, Milk, Peanuts, Sesame, Tree Nuts",
+  "nutritionalInfo": {
+    "noServesPerPack": 10.5,
+    "nutrientHealthStarValues": [
+      {
+        "healthStarValue": "UNDECLARED",
+        "nutrient": "SATURATED FAT"
+      },
+      {
+        "healthStarValue": "UNDECLARED",
+        "nutrient": "SODIUM"
+      },
+      {
+        "healthStarValue": "UNDECLARED",
+        "nutrient": "SUGAR"
+      },
+      {
+        "healthStarValue": "UNDECLARED",
+        "nutrient": "PROTEIN"
+      }
+    ],
+    "nutrients": [
+
+      {
+        "measurementPrecision": "EXACT",
+        "nutrientBasisQty": 100,
+        "nutrientBasisQtyUom": "GRM",
+        "nutrientType": "FASAT",
+        "nutrientTypeDescription": "Fat - Saturated",
+        "servingSizes": [
+          {
+            "uomToValue": {
+              "uom": "GRM",
+              "value": 23.8
+            }
+          }
+        ],
+        "nutrientBasisQuantityType": "BY_MEASURE",
+        "preparationState": "UNPREPARED",
+        "qtyContained": 1.3,
+        "nutrientUom": "GRM"
+      },
+      {
+        "measurementPrecision": "EXACT",
+        "nutrientBasisQty": 100,
+        "nutrientBasisQtyUom": "GRM",
+        "nutrientType": "FIBTS",
+        "nutrientTypeDescription": "fibre, total dietary; sum of non-starch polysaccharide components and lignin",
+        "servingSizes": [
+          {
+            "uomToValue": {
+              "uom": "GRM",
+              "value": 23.8
+            }
+          }
+        ],
+        "nutrientBasisQuantityType": "BY_MEASURE",
+        "preparationState": "UNPREPARED",
+        "qtyContained": 13.6,
+        "nutrientUom": "GRM"
+      }
+    ]
+  },
+  "inStoreMadeProduct": false,
+  "fsValidation": {
+    "allergens": {
+      "status": "PASSED",
+      "pealStatus": "PASSED"
+    }
+  },
+  "restrictedFlag": false,
+  "netContentUOM": "250g",
+  "displayName": "250g",
+  "height": 94,
+  "width": 227,
+  "categories": [
+    "Biscuits & Crackers",
+    "Crackers"
+  ],
+  "availability": [
+    "IN_STORE",
+    "ONLINE"
+  ],
+  "originRegulated": false,
+  "categoryTrees": [
+    {
+      "level0": "Pantry",
+      "level1": "Biscuits & Crackers",
+      "level2": "Crackers"
+    }
+  ],
+  "fulfilmentOptions": [
+    {
+      "method": "COLLECT",
+      "collectionPointType": "CONCIERGE",
+      "available": true
+    }
+  ],
+  "cateredFlag": false,
+  "images": {
+    "primaryImages": {
+      "100px": "https://a.fsimg.co.nz/product/retail/fan/image/100x100/5009687.png",
+      "200px": "https://a.fsimg.co.nz/product/retail/fan/image/200x200/5009687.png",
+      "300px": "https://a.fsimg.co.nz/product/retail/fan/image/300x300/5009687.png",
+      "400px": "https://a.fsimg.co.nz/product/retail/fan/image/400x400/5009687.png",
+      "500px": "https://a.fsimg.co.nz/product/retail/fan/image/500x500/5009687.png"
+    },
+    "alternateImages": [
+      {
+        "url": "https://a.fsimg.co.nz/coreimg-prod/external/info/09310072014753/assets/09310072014753-176223-0.jpg",
+        "facing": "FRONT",
+        "state": "IN_PACKAGING",
+        "angle": "LEFT_PLUNGE",
+        "contentType": "image/jpeg",
+        "width": 3379,
+        "height": 1736
+      },
+      {
+        "url": "https://a.fsimg.co.nz/coreimg-prod/external/info/09310072014753/assets/09310072014753-176220-0.jpg",
+        "facing": "BOTTOM",
+        "state": "IN_PACKAGING",
+        "angle": "NO_PLUNGE",
+        "contentType": "image/jpeg",
+        "width": 3382,
+        "height": 762
+      }
+    ]
+  }
+}

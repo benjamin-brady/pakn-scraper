@@ -15,7 +15,7 @@ dotnet restore && dotnet build
 Playwright Chromium web browser must be downloaded and installed using:
 
 ```cmd
-pwsh bin/Debug/net6.0/playwright.ps1 install chromium
+pwsh bin/Debug/net8.0/playwright.ps1 install chromium
 ```
 
 If running in dry mode, the program is now ready to use with:

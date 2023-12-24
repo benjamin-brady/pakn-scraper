@@ -11,3 +11,6 @@
 
 *.bat
 *.lnk
+/out/*
+
+.DS_Store
